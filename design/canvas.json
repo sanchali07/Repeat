@@ -1,0 +1,17 @@
+{
+  "artboards": [
+    { "file": "Main.dc.html",    "x": 0,    "y": 0,    "w": 390, "h": 844, "title": "Subjects" },
+    { "file": "Import.dc.html",  "x": 490,  "y": 0,    "w": 390, "h": 844, "title": "Import & OCR" },
+    { "file": "Review.dc.html",  "x": 980,  "y": 0,    "w": 390, "h": 844, "title": "Review extraction" },
+    { "file": "Bank.dc.html",    "x": 1470, "y": 0,    "w": 390, "h": 844, "title": "Question bank" },
+    { "file": "Detail.dc.html",  "x": 0,    "y": 1000, "w": 390, "h": 844, "title": "Question detail" },
+    { "file": "Pattern.dc.html", "x": 490,  "y": 1000, "w": 390, "h": 844, "title": "Pattern editor" },
+    { "file": "Paper.dc.html",   "x": 980,  "y": 1000, "w": 390, "h": 844, "title": "Generated paper" }
+  ],
+  "annotations": [
+    { "id": "heat", "x": 1470, "y": 920, "w": 390, "text": "The heat rail is the signature: repeat frequency reads as temperature before you read a word. Cool grey = asked once, amber = 3x, hot coral = 5x+. It carries through to the dots on the printed paper." },
+    { "id": "inkpaper", "x": 1470, "y": 1120, "w": 390, "text": "Ink and paper: the app is deep navy, the paper is warm cream. Primary buttons are paper-coloured, so the action that makes a paper looks like paper." },
+    { "id": "honesty", "x": 980, "y": 1900, "w": 390, "text": "Review is the honesty mechanism. Every extracted question is shown against the scan with its confidence, and proposed merges are offered rather than applied silently." }
+  ],
+  "launch": { "view": "canvas" }
+}
